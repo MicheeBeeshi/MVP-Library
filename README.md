@@ -4,7 +4,7 @@ Team MVP
 
 Welcome to MVP Library!
 
-## WHat Program does
+## What our Program does
 
 This program runs like a library where you can follow the instructions to explore a default 
 collction of books and play games related to them, or upload your own library file to explore and play.
