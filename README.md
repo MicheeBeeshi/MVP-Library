@@ -4,12 +4,12 @@ Team MVP
 
 Welcome to MVP Library!
 
-## What our Program does
+## What our Program Does
 
 This program runs like a library where you can follow the instructions to explore a default 
 collction of books and play games related to them, or upload your own library file to explore and play.
 
 ## How to Build/Run
 
-- To compile, `run g++ -g -Wall library.cpp gamemode.cpp book.cpp library-test.cpp -o test`
+- To compile, run ` g++ -g -Wall library.cpp gamemode.cpp book.cpp library-test.cpp -o test`
 - To run the program, run `./test`
