@@ -1,6 +1,6 @@
 Team MVP
 | Michelle Fosu| fosu@usc.edu | 1103730442 |
-| Vanya Shrivastava | vanyashr@usc.edu | |
+| Vanya Shrivastava | vanyashrivastava | |
 
 Welcome to MVP Library!
 
